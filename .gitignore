@@ -1,3 +1,6 @@
+" Ignore swap files created by vim
 .*.sw*
 *~
-.txt
+
+" Ignore .txt files created by the script
+*.txt
